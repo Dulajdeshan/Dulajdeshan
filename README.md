@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Dulaj Ariyaratne
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dulajdeshan) ![Github](https://img.shields.io/github/followers/Dulajdeshan?label=Follow&style=social)
+
+
 Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com). 
 
 ### Get In Touch
