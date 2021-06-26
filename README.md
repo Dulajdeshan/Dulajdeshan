@@ -14,4 +14,4 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ### Github Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulajdeshan&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulajdeshan)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulajdeshan&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulajdeshan&count_private=true)
