@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dulajdeshan) ![Github](https://img.shields.io/github/followers/Dulajdeshan?label=Follow&style=social)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Dulajdeshan&row=1&column=4&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Dulajdeshan&row=1&column=5&margin-w=15)
 
 Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com). 
 
