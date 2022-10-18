@@ -8,8 +8,6 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ### Get In Touch
 
-:globe_with_meridians: You can visit my blog at [infinitytechie](https://infinitytechie.com). 
-
 :email: Email me: dulajdeshans@gmail.com
 
 ### Github Status
