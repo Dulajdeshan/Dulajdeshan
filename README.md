@@ -43,8 +43,8 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ## 🎁 Open Source Projects
 
-[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
-[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript#gh-dark-mode-only)
+[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript#gh-light-mode-only)
 
 [![strapi-advanced-uuid stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid)
 [![strapi-advanced-uuid stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid)
