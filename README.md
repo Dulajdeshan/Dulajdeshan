@@ -47,7 +47,7 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 [![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript#gh-light-mode-only)
 
 [![strapi-advanced-uuid stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid#gh-dark-mode-only)
-[![strapi-advanced-uuid stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid#gh-light-mode-only)
+[![strapi-advanced-uuid stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid#gh-light-mode-only)
 
 [![strapi-bootstrap-icons stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/strapi-bootstrap-icons#gh-dark-mode-only)
 [![strapi-bootstrap-icons stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-bootstrap-icons#gh-light-mode-only)
