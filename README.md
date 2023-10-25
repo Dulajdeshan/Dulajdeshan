@@ -43,26 +43,14 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ## 🎁 Open Source Projects
 
-[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript#gh-dark-mode-only)
-
-[![strapi-advanced-uuid stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid#gh-dark-mode-only)
-
-[![strapi-bootstrap-icons stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/strapi-bootstrap-icons#gh-dark-mode-only)
-
-[![react-helper-hooks stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/fcodelabs/react-helper-hooks#gh-dark-mode-only)
-
+[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript#gh-dark-mode-only) [![strapi-advanced-uuid stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid#gh-dark-mode-only)
+[![strapi-bootstrap-icons stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/strapi-bootstrap-icons#gh-dark-mode-only) [![react-helper-hooks stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/fcodelabs/react-helper-hooks#gh-dark-mode-only)
 [![react-deploy-github-pages-action stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/fcodelabs/react-deploy-github-pages-action#gh-dark-mode-only)
 
 
 
-[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript#gh-light-mode-only)
-
-[![strapi-advanced-uuid stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid#gh-light-mode-only)
-
-[![strapi-bootstrap-icons stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-bootstrap-icons#gh-light-mode-only)
-
-[![react-helper-hooks stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks&bg_color=00000000#gh-light-mode-only)](https://github.com/fcodelabs/react-helper-hooks#gh-light-mode-only)
-
+[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript#gh-light-mode-only) [![strapi-advanced-uuid stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid#gh-light-mode-only)
+[![strapi-bootstrap-icons stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-bootstrap-icons#gh-light-mode-only) [![react-helper-hooks stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks&bg_color=00000000#gh-light-mode-only)](https://github.com/fcodelabs/react-helper-hooks#gh-light-mode-only)
 [![react-deploy-github-pages-action stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action&bg_color=00000000#gh-light-mode-only)](https://github.com/fcodelabs/react-deploy-github-pages-action#gh-light-mode-only)
 
 ## 📊 Github Status
