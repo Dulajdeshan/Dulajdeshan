@@ -43,10 +43,9 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ## 🎁 Open Source Projects
 
-
 <picture>
   <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript?theme=dark&bg_color=00000000"
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -56,54 +55,53 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
   <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript" />
 </picture>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Downloads</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Dulajdeshan/cra-template-redux-saga-typescript"><b>cra-template-redux-saga-typescript</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dulajdeshan/cra-template-redux-saga-typescript?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Dulajdeshan/cra-template-redux-saga-typescript?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Dulajdeshan/cra-template-redux-saga-typescript?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dt/cra-template-redux-saga-typescript"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Dulajdeshan/strapi-advanced-uuid"><b>strapi-advanced-uuid</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dulajdeshan/strapi-advanced-uuid?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Dulajdeshan/strapi-advanced-uuid?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Dulajdeshan/strapi-advanced-uuid?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dt/strapi-advanced-uuid"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Dulajdeshan/strapi-bootstrap-icons"><b>strapi-bootstrap-icons</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dulajdeshan/strapi-bootstrap-icons?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Dulajdeshan/strapi-bootstrap-icons?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Dulajdeshan/strapi-bootstrap-icons?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dt/strapi-bootstrap-icons"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/fcodelabs/react-helper-hooks"><b>react-helper-hooks</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/fcodelabs/react-helper-hooks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/fcodelabs/react-helper-hooks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/fcodelabs/react-helper-hooks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Downloads" src="https://img.shields.io/npm/dt/@fcodelabs/react-helper-hooks"/></td>
-    <tr>
-      <td><a href="https://github.com/fcodelabs/react-deploy-github-pages-action"><b>react-deploy-github-pages-action</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/fcodelabs/react-deploy-github-pages-action?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/fcodelabs/react-deploy-github-pages-action?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/fcodelabs/react-deploy-github-pages-action?style=flat-square&labelColor=343b41"/></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+<picture>
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid" />
+</picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&theme=dark&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks&theme=dark&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action&theme=dark&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action" />
+</picture>
 
 ## 📊 Github Status
 
