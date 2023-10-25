@@ -43,6 +43,15 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ## 🎁 Open Source Projects
 
+[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+
+[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+
+[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap; flex-direction: row; align-items: flex-start;">
 <div>
   <a href="https://github.com/Dulajdeshan/cra-template-redux-saga-typescript">
