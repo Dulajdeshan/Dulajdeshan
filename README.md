@@ -43,6 +43,19 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ## 🎁 Open Source Projects
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript?theme=dark&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript" />
+</picture>
+
 <table>
   <thead align="center">
     <tr border: none;>
