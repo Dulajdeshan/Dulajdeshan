@@ -5,7 +5,17 @@
 
 Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com). 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Dulajdeshan&row=1&column=5&margin-w=15&theme=dark_dimmed&no-bg=true)
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=Dulajdeshan&row=1&column=5&margin-w=15&theme=dark_dimmed&no-bg=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=Dulajdeshan&row=1&column=5&margin-w=15&no-bg=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dulajdeshan" />
+</picture>
 
 
 ## 🌐 Get In Touch
