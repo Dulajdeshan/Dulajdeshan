@@ -44,7 +44,8 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 ## 🎁 Open Source Projects
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; flex-direction: row; align-items: flex-start;">
-<a href="https://github.com/Dulajdeshan/cra-template-redux-saga-typescript">
+<div>
+  <a href="https://github.com/Dulajdeshan/cra-template-redux-saga-typescript">
   <picture >
   <source
     srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000"
@@ -57,7 +58,9 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
   <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript" />
 </picture>
 </a>
-<a href="https://github.com/Dulajdeshan/strapi-advanced-uuid">
+</div>
+<div>
+  <a href="https://github.com/Dulajdeshan/strapi-advanced-uuid">
 <picture>
   <source
     srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000"
@@ -70,6 +73,7 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
   <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid" />
 </picture>
 </a>
+</div>
 <a href="https://github.com/Dulajdeshan/strapi-bootstrap-icons">
 <picture>
   <source
