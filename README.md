@@ -109,7 +109,7 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 </br>
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com/?user=Dulajdeshan&theme=dark&background=00000000)](https://git.io/streak-stats"
+    srcset="https://streak-stats.demolab.com/?user=Dulajdeshan&background=00000000)](https://git.io/streak-stats"
     media="(prefers-color-scheme: dark)"
   />
   <source
