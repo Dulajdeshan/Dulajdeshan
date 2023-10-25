@@ -5,7 +5,7 @@
 
 Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com). 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Dulajdeshan&row=1&column=5&margin-w=15&theme=dark_dimmed)
+![trophy](https://github-profile-trophy.vercel.app/?username=Dulajdeshan&row=1&column=5&margin-w=15&theme=dark_dimmed&no-bg=true)
 
 
 ## 🌐 Get In Touch
@@ -84,13 +84,13 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ## 📊 Github Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulajdeshan&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![GitHub stats](https://github-readme-stats-dulajdeshan.vercel.app/api?username=Dulajdeshan&theme=dark&hide_border=false&include_all_commits=false&count_private=true&bg_color=00000000)<br/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dulajdeshan&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dulajdeshan&theme=dark&background=00000000)](https://git.io/streak-stats)<br/>
 
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulajdeshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Languages](https://github-readme-stats-dulajdeshan.vercel.app/api/top-langs/?username=Dulajdeshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
 
 
 ---
-[![Profile Views](https://visitcount.itsvg.in/api?id=Dulajdeshan&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Dulajdeshan&label=Views)
