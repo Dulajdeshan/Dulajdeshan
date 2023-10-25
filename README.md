@@ -46,7 +46,7 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 <div style="display: flex; gap: 10px; flex-wrap: wrap; flex-direction: row; align-items: flex-start;">
 <div>
   <a href="https://github.com/Dulajdeshan/cra-template-redux-saga-typescript">
-  <picture >
+  <picture>
   <source
     srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
