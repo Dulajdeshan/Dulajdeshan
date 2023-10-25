@@ -43,96 +43,24 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ## 🎁 Open Source Projects
 
-[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
-[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
 
-[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
-[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+[![strapi-advanced-uuid stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid)
+[![strapi-advanced-uuid stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-advanced-uuid)
 
-[![cra-template-redux-saga-typescript stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
-[![cra-template-redux-saga-typescript stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000)](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript)
+[![strapi-bootstrap-icons stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/Dulajdeshan/strapi-bootstrap-icons)
+[![strapi-bootstrap-icons stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&bg_color=00000000#gh-light-mode-only)](https://github.com/Dulajdeshan/strapi-bootstrap-icons)
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; flex-direction: row; align-items: flex-start;">
-<div>
-  <a href="https://github.com/Dulajdeshan/cra-template-redux-saga-typescript">
-  <picture>
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript" />
-</picture>
-</a>
-</div>
-<div>
-  <a href="https://github.com/Dulajdeshan/strapi-advanced-uuid">
-<picture>
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid" />
-</picture>
-</a>
-</div>
-<div>
-<a href="https://github.com/Dulajdeshan/strapi-bootstrap-icons">
-<picture>
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&theme=dark&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons" />
-</picture>
-</a>
-</div>
-<div>
-  <a href="https://github.com/fcodelabs/react-helper-hooks">
-<picture>
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks&theme=dark&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks" />
-</picture>
-</a>
-</div>
-<div>
-<a href="https://github.com/fcodelabs/react-deploy-github-pages-action">
-<picture>
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action&theme=dark&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action" />
-</picture>
-</a>
-</div>
-</div>
+[![react-helper-hooks stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/fcodelabs/react-helper-hooks)
+[![react-helper-hooks stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks&bg_color=00000000#gh-light-mode-only)](https://github.com/fcodelabs/react-helper-hooks)
+
+
+[![react-deploy-github-pages-action stats-Dark](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/fcodelabs/react-deploy-github-pages-action)
+[![react-deploy-github-pages-action stats-Light](https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action&bg_color=00000000#gh-light-mode-only)](https://github.com/fcodelabs/react-deploy-github-pages-action)
 
 
 ## 📊 Github Status
-
 
 <picture>
   <source
