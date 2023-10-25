@@ -84,13 +84,42 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ## 📊 Github Status
 
-![GitHub stats](https://github-readme-stats-dulajdeshan.vercel.app/api?username=Dulajdeshan&theme=dark&hide_border=false&include_all_commits=false&count_private=true&bg_color=00000000)<br/>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api?username=Dulajdeshan&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api?username=Dulajdeshan&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dulajdeshan&theme=dark&background=00000000)](https://git.io/streak-stats)<br/>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Dulajdeshan&theme=dark&background=00000000)](https://git.io/streak-stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Dulajdeshan&theme=light&background=00000000)](https://git.io/streak-stats"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
-![GitHub Languages](https://github-readme-stats-dulajdeshan.vercel.app/api/top-langs/?username=Dulajdeshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/top-langs/?username=Dulajdeshan&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/top-langs/?username=Dulajdeshan&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Dulajdeshan&label=Views)
