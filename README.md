@@ -43,7 +43,9 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
 
 ## 🎁 Open Source Projects
 
-<picture>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; flex-direction: row;">
+<a href="https://github.com/Dulajdeshan/cra-template-redux-saga-typescript">
+  <picture >
   <source
     srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript&theme=dark&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
@@ -54,7 +56,8 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
   />
   <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=cra-template-redux-saga-typescript" />
 </picture>
-
+</a>
+<a href="https://github.com/Dulajdeshan/strapi-advanced-uuid">
 <picture>
   <source
     srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid&theme=dark&bg_color=00000000"
@@ -66,7 +69,8 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
   />
   <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-advanced-uuid" />
 </picture>
-
+</a>
+<a href="https://github.com/Dulajdeshan/strapi-bootstrap-icons">
 <picture>
   <source
     srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons&theme=dark&bg_color=00000000"
@@ -78,7 +82,8 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
   />
   <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=Dulajdeshan&repo=strapi-bootstrap-icons" />
 </picture>
-
+</a>
+<a href="https://github.com/fcodelabs/react-helper-hooks">
 <picture>
   <source
     srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks&theme=dark&bg_color=00000000"
@@ -90,7 +95,8 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
   />
   <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-helper-hooks" />
 </picture>
-
+</a>
+<a href="https://github.com/fcodelabs/react-deploy-github-pages-action">
 <picture>
   <source
     srcset="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action&theme=dark&bg_color=00000000"
@@ -102,6 +108,8 @@ Hi, I'm Dulaj, Software Engineer at [Fcode Labs](https://www.fcodelabs.com).
   />
   <img src="https://github-readme-stats-dulajdeshan.vercel.app/api/pin/?username=fcodelabs&repo=react-deploy-github-pages-action" />
 </picture>
+</div>
+</a>
 
 ## 📊 Github Status
 
