@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dulaj Ariyaratne
 
-If you or your team have found my projects useful, or if you appreciate the work I’m doing, consider supporting my journey. Your backing allows me to keep enhancing these projects and developing new ones, helping the open-source world thrive. Thank you for being part of this mission! ❤️
+I’m a software engineer from Sri Lanka with a strong passion for open-source development. Since early 2023, I’ve been contributing to the Strapi ecosystem, creating and managing projects that aim to empower developers and improve the community's resources. My focus is on crafting valuable, reliable tools that make building applications easier for everyone.
 
 ## 🎁 Open Source Projects
 
