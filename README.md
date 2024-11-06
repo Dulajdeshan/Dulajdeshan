@@ -6,18 +6,18 @@ I’m a software engineer from Sri Lanka with a strong passion for open-source d
 
 ### Strapi Projects
 
-- [**awesome-strapi**](https://github.com/Dulajdeshan/awesome-strapi): A curated list of awesome things related to Strapi
-- [**strapi-advanced-uuid**](https://github.com/Dulajdeshan/strapi-advanced-uuid): A Strapi plugin to generate advanced UUIDs for entries
-- [**strapi-bootstrap-icons**](https://github.com/Dulajdeshan/strapi-bootstrap-icons): Adds Bootstrap icons to your Strapi project
-- [**strapi-liquid-templates**](https://github.com/Dulajdeshan/strapi-liquid-templates): A plugin for rendering Liquid templates in Strapi
-- [**strapi-country-select**](https://github.com/Dulajdeshan/strapi-country-select): A Custom Field plugin for Strapi to select countries in ISO 3166-1 alpha-2 format
-- [**strapi-provider-mailersend**](https://github.com/Dulajdeshan/strapi-provider-mailersend): MailerSend provider for strapi email plugin
+- [**awesome-strapi**](https://github.com/Dulajdeshan/awesome-strapi) - A curated list of awesome things related to Strapi
+- [**strapi-advanced-uuid**](https://github.com/Dulajdeshan/strapi-advanced-uuid) - A Strapi plugin to generate advanced UUIDs for entries
+- [**strapi-bootstrap-icons**](https://github.com/Dulajdeshan/strapi-bootstrap-icons) - Adds Bootstrap icons to your Strapi project
+- [**strapi-liquid-templates**](https://github.com/Dulajdeshan/strapi-liquid-templates) - A plugin for rendering Liquid templates in Strapi
+- [**strapi-country-select**](https://github.com/Dulajdeshan/strapi-country-select) - A Custom Field plugin for Strapi to select countries in ISO 3166-1 alpha-2 format
+- [**strapi-provider-mailersend**](https://github.com/Dulajdeshan/strapi-provider-mailersend) - MailerSend provider for strapi email plugin
 
 ### Other Projects
 
-- [**cra-template-redux-saga-typescript**](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript): A Create React App template with Redux Saga and TypeScript setup.
-- [**vite-react-redux-saga-typescript**](https://github.com/Dulajdeshan/vite-react-redux-saga-typescript): A Vite template for React with Redux Saga and TypeScript.
-- [**regex-randstr**](https://github.com/Dulajdeshan/regex-randstr): Generate random strings based on regular expressions.
+- [**cra-template-redux-saga-typescript**](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript) - A Create React App template with Redux Saga and TypeScript setup.
+- [**vite-react-redux-saga-typescript**](https://github.com/Dulajdeshan/vite-react-redux-saga-typescript) - A Vite template for React with Redux Saga and TypeScript.
+- [**regex-randstr**](https://github.com/Dulajdeshan/regex-randstr) - Generate random strings based on regular expressions.
 
 
 ## 🌐 Get In Touch
