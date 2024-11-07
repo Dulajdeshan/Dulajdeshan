@@ -17,7 +17,7 @@ I’m a software engineer from Sri Lanka with a strong passion for open-source d
 
 - [**cra-template-redux-saga-typescript**](https://github.com/Dulajdeshan/cra-template-redux-saga-typescript) - A Create React App template with Redux Saga and TypeScript setup.
 - [**vite-react-redux-saga-typescript**](https://github.com/Dulajdeshan/vite-react-redux-saga-typescript) - A Vite template for React with Redux Saga and TypeScript.
-- [**regex-randstr**](https://github.com/Dulajdeshan/regex-randstr) - Generate random strings based on regular expressions.
+- [**regex-randstr**](https://github.com/dynolabs/regex-randstr) - Generate random strings based on regular expressions.
 
 
 ## 🌐 Get In Touch
