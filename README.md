@@ -9,9 +9,9 @@ I’m a software engineer from Sri Lanka with a strong passion for open-source d
 - [**awesome-strapi**](https://github.com/dynolabs/awesome-strapi) - Curated list of awesome things related to Strapi
 - [**strapi-advanced-uuid**](https://github.com/Dulajdeshan/strapi-advanced-uuid) - Custom Field plugin for Strapi to generate UUID based on your regular expressions
 - [**strapi-bootstrap-icons**](https://github.com/dynolabs/strapi-bootstrap-icons) - Custom Field plugin for Strapi that allows to use Bootstrap Icons for your content.
-- [**strapi-liquid-templates**](https://github.com/Dulajdeshan/strapi-liquid-templates) - A plugin for rendering Liquid templates in Strapi
-- [**strapi-country-select**](https://github.com/Dulajdeshan/strapi-country-select) - Custom Field plugin for Strapi to select countries in ISO 3166-1 alpha-2 format
-- [**strapi-provider-mailersend**](https://github.com/Dulajdeshan/strapi-provider-mailersend) - MailerSend provider for strapi email plugin
+- [**strapi-liquid-templates**](https://github.com/dynolabs/strapi-liquid-templates) - A plugin for rendering Liquid templates in Strapi
+- [**strapi-country-select**](https://github.com/dynolabs/strapi-country-select) - Custom Field plugin for Strapi to select countries in ISO 3166-1 alpha-2 format
+- [**strapi-provider-mailersend**](https://github.com/dynolabs/strapi-provider-mailersend) - MailerSend provider for strapi email plugin
 
 ### Other Projects
 
