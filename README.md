@@ -21,5 +21,5 @@ I’m a software engineer from Sri Lanka with a strong passion for open-source d
 
 
 ## 🌐 Get In Touch
-[![Email](https://img.shields.io/badge/dulajdeshans@gmail.com-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:dulajdeshans@gmail.com)
+[![Email](https://img.shields.io/badge/dulajdeshans@gmail.com-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:dulaj@fcodelabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dulaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13368318) [![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/~dulajdeshan) 
